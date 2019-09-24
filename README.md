@@ -4,4 +4,4 @@ An implementation of [Arnold's Cat Map](https://en.wikipedia.org/wiki/Arnold%27s
 
 ![ruby](splash.jpg)
 
-Note: this code is robust enough to work on images of Dogs as well as Cats. 
+_Note: this code is robust enough to work on images of doggos as well as cats._
