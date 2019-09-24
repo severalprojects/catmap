@@ -1,6 +1,6 @@
 # catmap
 
-An implementation of [https://en.wikipedia.org/wiki/Arnold%27s_cat_map](Arnold's Cat Map) in Processing.
+An implementation of [Arnold's Cat Map](https://en.wikipedia.org/wiki/Arnold%27s_cat_map) in Processing.
 
 ![ruby](splash.jpg)
 
